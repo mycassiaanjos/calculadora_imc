@@ -4,7 +4,7 @@ void main() {
   runApp(
     MaterialApp(
         home: const ImcHomePage(),
-        theme: ThemeData(primarySwatch: Colors.blue),
+        theme: ThemeData(primarySwatch: Colors.indigo),
         debugShowCheckedModeBanner: false),
   );
 }
